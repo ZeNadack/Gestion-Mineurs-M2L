@@ -1,0 +1,99 @@
+﻿<Window x:Class="CentreLoisirs.GestionEnfant"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CentreLoisirs"
+        mc:Ignorable="d"
+        Title="GestionEnfant" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Ajouter" Selector.Selected="AjoutEnfant">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Enfants" HorizontalAlignment="Left" Margin="355,10,0,0" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="20"/>
+                    <Label Content="Nom" HorizontalAlignment="Left" Margin="187,62,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxPrenomEnf" HorizontalAlignment="Left" Margin="240,112,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Prenom" HorizontalAlignment="Left" Margin="162,102,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxNomEnf" HorizontalAlignment="Left" Margin="240,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <RadioButton x:Name="RadGarconEnf" Content="Garçon" HorizontalAlignment="Left" Margin="240,148,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+                    <RadioButton x:Name="RadFilleEnf" Content="Fille" HorizontalAlignment="Left" Margin="317,148,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+                    <Label Content="Date de naissance" HorizontalAlignment="Left" Margin="81,172,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <DatePicker x:Name="DatePickEnf" HorizontalAlignment="Left" Margin="240,180,0,0" VerticalAlignment="Top"/>
+                    <Label Content="N° Sécurité Socciale" HorizontalAlignment="Left" Margin="64,215,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxSecuEnf" HorizontalAlignment="Left" Margin="240,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Documents fournis?" HorizontalAlignment="Left" Margin="64,258,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckDocEnf" Content="" HorizontalAlignment="Left" Margin="240,268,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+                    <Label Content="Mange à la cantine?" HorizontalAlignment="Left" Margin="62,301,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckCantEnf" Content="" HorizontalAlignment="Left" Margin="240,306,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+                    <Label Content="Contraintes alimentaires?" HorizontalAlignment="Left" Margin="18,341,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckContrEnf" Content="" HorizontalAlignment="Left" Margin="240,350,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+                    <Label Content="Observations médicales" HorizontalAlignment="Left" Margin="400,62,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxObservEnf" HorizontalAlignment="Left" Margin="601,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189" Height="96"/>
+                    <Label Content="Vaccinations" HorizontalAlignment="Left" Margin="486,185,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxVaccinEnf" HorizontalAlignment="Left" Margin="601,200,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189" Height="53"/>
+                    <Label Content="Responsable légal" HorizontalAlignment="Left" Margin="420,266,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <ComboBox x:Name="CbxResponsEnf" HorizontalAlignment="Left" Margin="572,274,0,0" VerticalAlignment="Top" Width="190"/>
+                    <Label Content="Médecin Référant" HorizontalAlignment="Left" Margin="420,309,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <ComboBox x:Name="CbxMedecinEnf" HorizontalAlignment="Left" Margin="572,317,0,0" VerticalAlignment="Top" Width="190"/>
+                    <Button x:Name="BtnEnfantAjout" Content="Ajouter" HorizontalAlignment="Left" Margin="616,363,0,0" VerticalAlignment="Top" Height="33" Width="102" Click="BtnEnfantAjout_Click" IsDefault="True"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Consulter" Selector.Selected="ConsulEnfant">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="GridEnfant"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Supprimer" Selector.Selected="SupprEnfant">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Supprimer Enfants" HorizontalAlignment="Center" Margin="0,25,0,0" VerticalAlignment="Top" FontFamily="Segoe Print" FontSize="20" Height="42" FontWeight="Bold"/>
+                    <ComboBox x:Name="CbxSupprEnf" HorizontalAlignment="Center" VerticalAlignment="Center" Width="142" Height="94"/>
+                    <Button x:Name="BtnSupprEnf" Content="Supprimer" HorizontalAlignment="Center" Margin="0,293,0,0" VerticalAlignment="Top" Height="71" Width="255" Click="BtnSupprEnf_Click" FontSize="20" FontWeight="Bold" FontStyle="Italic" FontFamily="Arial Black" Background="White" BorderBrush="#FFE60BA1"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Modifier">
+                <Grid Background="#FFE5E5E5" Selector.Selected="ModifierEnfant">
+                    <Label Content="Modifier Enfant" HorizontalAlignment="Center" Height="49" Margin="0,8,0,0" VerticalAlignment="Top" Width="310" FontSize="20" FontWeight="Bold" FontStyle="Italic" FontFamily="Wide Latin"/>
+                    <Button x:Name="BtnModifEnfant" Content="Modifier" HorizontalAlignment="Left" Height="51" Margin="618,192,0,0" VerticalAlignment="Top" Width="166" FontSize="20" FontWeight="Bold" Click="BtnModifEnfant_Click"/>
+                    <ComboBox x:Name="CbxModifEnfant" HorizontalAlignment="Left" Height="24" Margin="634,156,0,0" VerticalAlignment="Top" Width="134"/>
+
+                    <Label Content="Nom" HorizontalAlignment="Left" Margin="170,64,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxModifNomEnf" HorizontalAlignment="Left" Margin="223,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+                    <Label Content="Prenom" HorizontalAlignment="Left" Margin="145,106,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxModifPrenomEnf" HorizontalAlignment="Left" Margin="223,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+                    <Label Content="Sexe" HorizontalAlignment="Left" Margin="171,140,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxModifSexeEnf" HorizontalAlignment="Left" Margin="223,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+                    <Label Content="Date de naissance" HorizontalAlignment="Left" Margin="63,172,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxModifDateEnf" HorizontalAlignment="Left" Margin="222,182,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+                    <Label Content="N° Sécurité Socciale" HorizontalAlignment="Left" Margin="46,215,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <TextBox x:Name="TbxModifSecuEnf" HorizontalAlignment="Left" Margin="222,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+
+                    <Label Content="Documents fournis?" HorizontalAlignment="Left" Margin="46,258,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckModifDocEnf" Content="" HorizontalAlignment="Left" Margin="222,268,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+
+                    <Label Content="Mange à la cantine?" HorizontalAlignment="Left" Margin="44,301,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckModifCantEnf" Content="" HorizontalAlignment="Left" Margin="222,306,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+
+                    <Label Content="Contraintes alimentaires?" HorizontalAlignment="Left" Margin="0,341,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <CheckBox x:Name="CheckModifContrEnf" Content="" HorizontalAlignment="Left" Margin="222,350,0,0" VerticalAlignment="Top" FontFamily="Segoe Print"/>
+
+                    <Label Content="Observations médicales" HorizontalAlignment="Left" Margin="376,57,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print" Height="32"/>
+                    <TextBox x:Name="TbxModifObservEnf" HorizontalAlignment="Left" Margin="380,89,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189" Height="81"/>
+
+                    <Label Content="Vaccinations" HorizontalAlignment="Left" Margin="423,190,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print" Height="34"/>
+                    <TextBox x:Name="TbxModifVaccinEnf" HorizontalAlignment="Left" Margin="383,225,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="189" Height="43"/>
+
+                    <Label Content="Responsable légal" HorizontalAlignment="Left" Margin="260,281,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <ComboBox x:Name="CbxModifResponsableEnf" HorizontalAlignment="Left" Margin="413,289,0,0" VerticalAlignment="Top" Width="190"/>
+
+                    <Label Content="Médecin Référant" HorizontalAlignment="Left" Margin="260,326,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Segoe Print"/>
+                    <ComboBox x:Name="CbxModifMedecinEnf" HorizontalAlignment="Left" Margin="413,334,0,0" VerticalAlignment="Top" Width="190"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

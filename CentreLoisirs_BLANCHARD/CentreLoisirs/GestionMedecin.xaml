@@ -1,0 +1,48 @@
+﻿<Window x:Class="CentreLoisirs.GestionMedecin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CentreLoisirs"
+        mc:Ignorable="d"
+        Title="GestionMedecin" Height="450" Width="800">
+    <Grid>
+        <TabControl HorizontalAlignment="Center" Height="424" Margin="0,10,0,0" VerticalAlignment="Top" Width="780">
+            <TabItem Header="Ajouter">
+                <Grid Background="#FF5D5757" Height="407">
+                    <Label Content="&#x9;&#x9;             Ajouter Médecin" HorizontalAlignment="Center" Height="65" Margin="0,10,0,0" VerticalAlignment="Top" Width="584" FontSize="20" FontFamily="Sitka Text" Background="#FFF9EFED" FontWeight="Bold" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+                    <Button x:Name="BtnAjouter" Content="Ajouter" HorizontalAlignment="Center" Height="70" Margin="0,311,0,0" VerticalAlignment="Top" Width="228" Click="BtnAjouter_Click" FontSize="16" FontWeight="Bold" FontStyle="Normal" FontFamily="Segoe UI Light">
+                    </Button>
+                    <Label Content="Nom du médecin :" HorizontalAlignment="Left" Height="42" Margin="154,108,0,0" VerticalAlignment="Top" Width="127" FontSize="14" Foreground="#FFFBF7F7"/>
+                    <Label Content="Téléphone :" HorizontalAlignment="Left" Height="58" Margin="154,0,0,0" VerticalAlignment="Center" Width="150" FontSize="14" Foreground="#FFF3F3F3"/>
+                    <TextBox x:Name="TbxNom" HorizontalAlignment="Left" Height="60" Margin="380,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="214" TextChanged="TbxNom_TextChanged"/>
+                    <TextBox x:Name="TbxTel" HorizontalAlignment="Left" Height="58" Margin="380,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="214" TextChanged="TbxTel_TextChanged"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Consulter" Selector.Selected="ConsulMedecin">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="GridMedecin" HorizontalAlignment="Left" Height="159" Margin="37,39,0,0" VerticalAlignment="Top" Width="710" />
+                </Grid>
+            </TabItem>
+            <TabItem Header="Suppprimer" Selector.Selected="OngletSupp">
+                <Grid  Background="#FFE5E5E5">
+                    <Label Content="Nom du médecin :" HorizontalAlignment="Left" Height="48" Margin="119,162,0,0" VerticalAlignment="Top" Width="173" FontSize="16"/>
+                    <ComboBox x:Name="CBoxSupprimer" HorizontalAlignment="Left" Height="64" Margin="316,154,0,0" VerticalAlignment="Top" Width="191"/>
+                    <Button x:Name="Btnsupprimer" Content="Supprimer" HorizontalAlignment="Left" Height="68" Margin="264,297,0,0" VerticalAlignment="Top" Width="273" Click="Btnsupprimer_Click" FontSize="16" FontWeight="Bold"/>
+                    <Label Content="Supprimer Médecin" HorizontalAlignment="Center" Height="52" Margin="0,30,0,0" VerticalAlignment="Top" Width="240" FontSize="22" FontFamily="Sitka Text" FontWeight="Bold"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Modifier" Selector.Selected="tabModifier_Selected">
+                <Grid  Background="#FFE5E5E5">
+                    <Button x:Name="BtnModifier" Content="Modifier" HorizontalAlignment="Left" Height="92" Margin="496,263,0,0" VerticalAlignment="Top" Width="240" FontSize="20" FontWeight="Bold" FontStyle="Italic" Click="BtnModifier_Click"/>
+                    <ComboBox x:Name="CbxModifier" HorizontalAlignment="Left" Height="63" Margin="174,95,0,0" VerticalAlignment="Top" Width="193"/>
+                    <Label Content="Modifier un Medecin" HorizontalAlignment="Center" Height="66" Margin="0,24,0,0" VerticalAlignment="Top" Width="370" HorizontalContentAlignment="Center" FontSize="22" FontWeight="Bold" FontFamily="Sitka Text"/>
+                    <TextBox x:Name="tbxModNom" HorizontalAlignment="Left" Height="44" Margin="174,198,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
+                    <TextBox x:Name="tbxModTelephone" HorizontalAlignment="Left" Height="41" Margin="174,268,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="193"/>
+                    <Label Content="Nom Medecin :" HorizontalAlignment="Left" Height="44" Margin="20,198,0,0" VerticalAlignment="Top" Width="137"/>
+                    <Label Content="Telephone Medecin :" HorizontalAlignment="Left" Height="41" Margin="20,268,0,0" VerticalAlignment="Top" Width="137"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

@@ -1,0 +1,242 @@
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.g.cs
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\App.g.cs
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.baml
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+C:\Users\tblanchard1\Desktop\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\App.g.cs
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.g.cs
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\App.g.cs
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionFamille.baml
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\MainWindow.baml
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+\\serveurpb\utilisateurs$\SIO1\tblanchard1\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\Mme Krahenbul\CentreLoisirs\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\App.g.cs
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\Mme Krahenbul\CentreLoisirsFINAL\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\1ère année\Mme Krahenbul\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+W:\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\2ème année\AP\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\Dapper.StrongName.dll
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\MySql.Data.dll
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\Dapper.StrongName.xml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CopyComplete
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe.config
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\CentreLoisirs.pdb
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\Dapper.StrongName.dll
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\MySql.Data.dll
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\bin\Debug\Dapper.StrongName.xml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.AssemblyReference.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.SuggestedBindingRedirects.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\App.g.cs
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs_MarkupCompile.lref
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionEnfant.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionFamille.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\GestionMedecin.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\MainWindow.baml
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.g.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.Properties.Resources.resources
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.GenerateResource.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CoreCompileInputs.cache
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.csproj.CopyComplete
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.exe
+Z:\2ème année\SIO2 Slam Mme Krahenbuhl\A.P\Gestion Mineurs M2L ALLARD_BLANCHARD\CentreLoisirsALLARD_BLANCHARD\CentreLoisirs\obj\Debug\CentreLoisirs.pdb
